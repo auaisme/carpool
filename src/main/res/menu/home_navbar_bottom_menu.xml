@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/book_car"
+        android:title="@string/book_car"
+        android:icon="@drawable/car_normal"
+    />
+
+    <item
+        android:id="@+id/book_rikshaw"
+        android:title="@string/book_rikshaw"
+        android:icon="@drawable/car_normal"
+    />
+
+    <item
+        android:id="@+id/book_bike"
+        android:title="@string/book_bike"
+        android:icon="@drawable/car_normal"
+    />
+
+    <item
+        android:id="@+id/book_package"
+        android:title="@string/book_package"
+        android:icon="@drawable/car_normal"
+    />
+
+    <item
+        android:id="@+id/book_car_intercity"
+        android:title="@string/book_car_intercity"
+        android:icon="@drawable/car_normal"
+    />
+
+</menu>
